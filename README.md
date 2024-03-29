@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=tugcese&style=for-the-badge&color=blue)
 
-<p>Welcome to my page! </br> I'm Tugce, Data Analyst from <img src="subway.png" width="30" height="30" style="vertical-align:middle"/> <b>London, UK</b>. </p>
+<p>Welcome to my page! </br> I'm Tugce, Data Analyst from <img src="subway.png" width="30" height="30" style="vertical-align:center"/> <b>London, UK</b>. </p>
 <h3>Things I analyse with</h3>
 <p>
  
@@ -63,8 +63,8 @@
 <h2 align="center">:zap: Stats :zap:</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tugcese&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tugcese&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ <img width="390" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tugcese&count_private=true&theme=react&border_radius=10" alt="streak stats" style="padding: 10px;">
+ <img width=390 height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=tugcese&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="padding: 10px;" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tugcese&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
