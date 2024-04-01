@@ -48,10 +48,10 @@
  <a href="https://www.kaggle.com">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/22994857/">
+  <a href="https://stackoverflow.com/">
     <img src=" 	https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
-   <a href="https://www.hackerrank.com/profile/">
+   <a href="https://www.hackerrank.com/">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
    <a href="https://medium.com/">
