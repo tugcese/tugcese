@@ -45,7 +45,7 @@
   <a href="https://public.tableau.com/app/profile/tugce.selimoglu/vizzes" target="_blank">
      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
- <a href="https://www.kaggle.com">
+ <a href="https://www.kaggle.com/tugceselimoglu">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/">
